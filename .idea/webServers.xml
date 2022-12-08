@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c34d4f3f-0e2f-4e2a-832f-3b80e68986a6" name="Localhost" url="http://localhost/mvsp">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\mvsp" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
